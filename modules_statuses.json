@@ -1,0 +1,10 @@
+{
+    "Pupil": true,
+    "Teacher": true,
+    "Lesson": true,
+    "LessonsTable": true,
+    "Subject": true,
+    "PupilsClass": true,
+    "Mark": true,
+    "Parent": true
+}
